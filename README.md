@@ -26,3 +26,9 @@ Poor Review %: The percentage of poor reviews the medicine has received.
 
 ![image](https://github.com/Prabhoda/CodeClauseInternship_Personalized_Medicine_Recommending_System/assets/103125935/aeaa78e8-fa0a-4c7d-83ce-cc79dc220433)
 
+![med2](https://github.com/Prabhoda/CodeClauseInternship_Personalized_Medicine_Recommending_System/assets/103125935/11956b89-0250-4a36-aa59-f953f71bca4a)
+
+![med3](https://github.com/Prabhoda/CodeClauseInternship_Personalized_Medicine_Recommending_System/assets/103125935/6a3dc9ba-d0bd-4a33-893d-1655806ea4b4)
+
+
+
