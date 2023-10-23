@@ -8,9 +8,7 @@ The dataset consists of the following columns:
 
 Medicine Name: The name of the medicine.
 
-
 Composition: The chemical composition of the medicine.
-
 
 Uses: The various medical conditions for which the medicine is used.
 
