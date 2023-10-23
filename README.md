@@ -23,3 +23,6 @@ Excellent Review %: The percentage of excellent reviews the medicine has receive
 Average Review %: The percentage of average reviews the medicine has received.
 
 Poor Review %: The percentage of poor reviews the medicine has received.
+
+![image](https://github.com/Prabhoda/CodeClauseInternship_Personalized_Medicine_Recommending_System/assets/103125935/aeaa78e8-fa0a-4c7d-83ce-cc79dc220433)
+
